@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<head>
+   <title> MY SELF </title>
+<head>
+<body>
+<div>
+    <h2>Name:<mark>Nirmal Kumbhar</mark></h2>
+</div>
+
+<a href="https://www.w3schools.com/" target="_blank">Visit W3Schools!</a>
+<p><a href="https://www.w3.org/">W3C</a></p>
+<p><a href="https://www.google.com/">Google</a></p>
+<div>
+   <h3> Favorite Food</h3> 
+   <ul>
+      <li>apple</li>
+      <li>mango</li>   
+   </ul>
+</div>
+<div>
+   <h3>Achivement</h3>
+   <ul>
+       <li> progress in this course is 100%</li>
+        <li>python basic course was completed successfully</li>
+    </ul>
+</div>
+<details>
+  <summary>Epcot Center</summary>
+</details>
+<div>
+   <h2> My favorite fort </h2>
+  <figure>
+     <img src="https://th.bing.com/th/id/OIP.Naxy_9Qrk_jZwRfAx7CQPAHaE8?w=265&h=180&c=7&o=5&pid=1.7" alt="fort">
+      <figcaption> " fort img" </figcaption>
+  </figure>
+</div>
+
+<div>
+    <h3>MORE ABOUT ME </h3>
+     <h4> My Hobbies </h4>
+         <ul>
+             <li> playing crickect</li>
+             <li> reading books </li>
+             <li> watching movies</li>
+         </ul>
+</div>
+</body>
+</html>
+
+
